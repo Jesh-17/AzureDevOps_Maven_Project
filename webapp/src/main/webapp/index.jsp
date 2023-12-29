@@ -1,4 +1,3 @@
-<h1>***Welcome To Personal Form Page***</h1>
 <!DOCTYPE html> 
 <html> 
     <head> 
@@ -17,6 +16,7 @@
                 };
             }); 
         </script> 
+        <h1>***Welcome To Personal Form Page***</h1>
         <style> 
             .valid.false { 
                 background: red; 
