@@ -59,8 +59,7 @@
             <br /><br /> 
 
             <button type="submit">Submit Form</button> 
-            <br /><br /> 
-            <span>{{msg}}</span> 
+            <br /><br />  
         </form> 
     </body> 
 </html>
